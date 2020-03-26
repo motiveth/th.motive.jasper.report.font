@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontfamilies>
+  <fontFamily name="Arial">
+     <normal>common/Arial.ttf</normal>
+     <bold>common/Arial_Bold.ttf</bold>
+     <italic>common/Arial_Italic.ttf</italic>
+     <bolditalic>common/Arial_Bold_Italic.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+  <fontFamily name="Comic Sans Test">
+     <normal>common/Comic_Sans_MS.ttf</normal>
+     <bold>common/Comic_Sans_MS_Bold.ttf</bold>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+  <fontFamily name="Courier New">
+     <normal>common/Courier_New.ttf</normal>
+     <bold>common/Courier_New_Bold.ttf</bold>
+     <italic>common/Courier_New_Italic.ttf</italic>
+     <bolditalic>common/Courier_New_Bold_Italic.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+  <fontFamily name="Georgia">
+     <normal>common/Georgia.ttf</normal>
+     <bold>common/Georgia_Bold.ttf</bold>
+     <italic>common/Georgia_Italic.ttf</italic>
+     <bolditalic>common/Georgia_Bold_Italic.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+  <fontFamily name="Monospaced">
+     <normal>common/LiberationMono-Regular.ttf</normal>
+     <bold>common/LiberationMono-Bold.ttf</bold>
+     <italic>common/LiberationMono-Italic.ttf</italic>
+     <bolditalic>common/LiberationMono-BoldItalic.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+  <fontFamily name="Times New Roman">
+     <normal>common/Times_New_Roman.ttf</normal>
+     <bold>common/Times_New_Roman_Bold.ttf</bold>
+     <italic>common/Times_New_Roman_Italic.ttf</italic>
+     <bolditalic>common/Times_New_Roman_Bold_Italic.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+  <fontFamily name="Verdana">
+     <normal>common/Verdana.ttf</normal>
+     <bold>common/Verdana_Bold.ttf</bold>
+     <italic>common/Verdana_Italic.ttf</italic>
+     <bolditalic>common/Verdana_Bold_Italic.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+  <fontFamily name="TH Krub">
+     <normal>THKrub/TH Krub.ttf</normal>
+     <bold>THKrub/TH Krub Bold.ttf</bold>
+     <italic>THKrub/TH Krub Italic.ttf</italic>
+     <bolditalic>THKrub/TH Krub Bold Italic.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+  <fontFamily name="TH SarabunPSK">
+     <normal>THKrub/TH Krub.ttf</normal>
+     <bold>THKrub/TH Krub Bold.ttf</bold>
+     <italic>THKrub/TH Krub Italic.ttf</italic>
+     <bolditalic>THKrub/TH Krub Bold Italic.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+  <fontFamily name="THSarabun">
+     <normal>THSarabun/THSarabun.ttf</normal>
+     <bold>THSarabun/THSarabunIT๙ Bold.ttf</bold>
+     <italic>THSarabun/THSarabunIT๙ Italic.ttf</italic>
+     <bolditalic>THSarabun/THSarabunIT๙ BoldItalic.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
+</fontfamilies>

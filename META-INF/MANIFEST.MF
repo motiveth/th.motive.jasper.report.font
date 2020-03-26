@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jasper Report Font
+Bundle-SymbolicName: th.motive.jasper.report.font
+Bundle-Version: 7.1.0.qualifier
+Fragment-Host: net.sf.jasperreports.engine;bundle-version="6.3.1"
+Bundle-Vendor: Motive Solutions Co., Ltd.
+Bundle-ClassPath: .
+Automatic-Module-Name: th.motive.jasper.report.font
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version>=1.10))"
