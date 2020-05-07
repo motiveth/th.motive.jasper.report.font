@@ -78,4 +78,12 @@
      <pdfembedded>true</pdfembedded>
      <pdfEncoding>Identity-H</pdfEncoding>
   </fontFamily>
+  <fontFamily name="Phetsarath OT">
+     <normal>Phetsarath OT.ttf</normal>
+     <bold>Phetsarath OT.ttf</bold>
+     <italic>Phetsarath OT.ttf</italic>
+     <bolditalic>Phetsarath OT.ttf</bolditalic>
+     <pdfembedded>true</pdfembedded>
+     <pdfEncoding>Identity-H</pdfEncoding>
+  </fontFamily>
 </fontfamilies>
